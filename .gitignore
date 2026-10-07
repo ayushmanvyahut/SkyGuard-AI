@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+
+venv/
+.env
+
+skyguard_alerts.db
+
+alerts/
+
+*.jpg
+*.jpeg
+*.png
+
+.DS_Store
