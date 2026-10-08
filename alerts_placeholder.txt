@@ -1,0 +1,2 @@
+Runtime alert snapshots are intentionally excluded from Git.
+The application creates/uses the alerts/ directory locally.
